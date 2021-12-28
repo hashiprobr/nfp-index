@@ -35,7 +35,7 @@ three innate psychological needs defined by the [Self-Determination
 Theory](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
 of [R. M. Ryan](http://www.sas.rochester.edu/psy/people/faculty/ryan_richard/)
 and [E. L.
-Deci](http://www.sas.rochester.edu/psy/people/faculty/deci_edward/index.html)
+Deci](http://www.sas.rochester.edu/psy/people/faculty/deci_edward/index.html).
 
 **Competence**, the desire to master the requirements and control the outcome,
 is facilitated by the four characteristics above. They ensure that the
@@ -94,8 +94,8 @@ Frequently Asked Questions
 
    It is more accurate to say that the goal is making programming classes easy
    as possible where it doesn't matter, while still allowing them to be as
-   difficult as necessary where it matters. This improves not only the intrinsic
-   motivation, but also the reliability of assessments.
+   difficult as necessary where it matters. This improves not only intrinsic
+   motivation, but also reliability of assessments.
 
 5. *Why not use an established platform and provide scaffolds for the more
    difficult parts?*
