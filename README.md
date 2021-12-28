@@ -2,7 +2,7 @@ The NFP Index
 =============
 
 This is an up-to-date list of all platforms that are officially part of the
-Not-For-Production Initiative. Any platforms on this list...
+**Not-For-Production Initiative**. Any platform on this list...
 
 * ...is not necessarily flexible and does not necessarily encourage, facilitate,
   or even allow feature customization;
@@ -28,11 +28,11 @@ security, and good practices whenever possible, they prioritize:
 
 * maximization of readability.
 
-In other words, they are not adequate for production environments. Instead,
-their goal is improving intrinsic motivation in programming classes, by
-providing a balance between competence, autonomy, and relatedness, the three
-innate psychological needs defined by the [Self-Determination Theory of R. M.
-Ryan and E. L.
+In other words, they are *not adequate for production environments*. Instead,
+their goal is *improving intrinsic motivation in programming classes*, by
+providing a balance between *competence*, *autonomy*, and *relatedness*, the
+three innate psychological needs defined by the [Self-Determination Theory of R.
+M. Ryan and E. L.
 Deci](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf).
 
 **Competence**, the desire to master the requirements and control the outcome,
