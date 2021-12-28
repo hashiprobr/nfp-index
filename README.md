@@ -31,9 +31,11 @@ security, and good practices whenever possible, they prioritize:
 In other words, they are *not adequate for production environments*. Instead,
 their goal is *improving intrinsic motivation in programming classes*, by
 providing a balance between *competence*, *autonomy*, and *relatedness*, the
-three innate psychological needs defined by the [Self-Determination Theory of R.
-M. Ryan and E. L.
-Deci](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf).
+three innate psychological needs defined by the [Self-Determination
+Theory](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf)
+of [R. M. Ryan](http://www.sas.rochester.edu/psy/people/faculty/ryan_richard/)
+and [E. L.
+Deci](http://www.sas.rochester.edu/psy/people/faculty/deci_edward/index.html)
 
 **Competence**, the desire to master the requirements and control the outcome,
 is facilitated by the four characteristics above. They ensure that the
