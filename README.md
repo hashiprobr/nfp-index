@@ -1,5 +1,5 @@
-The NFP Index
-=============
+NFP Index
+=========
 
 This is an up-to-date list of all platforms that are officially part of the
 **Not-For-Production Initiative**. Any platform on this list...
