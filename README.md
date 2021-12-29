@@ -47,8 +47,8 @@ high-level APIs that, despite the four characteristics above, still allow a
 reasonable degree of freedom to decide what to do and how to do it.
 
 **Relatedness**, the desire to care and be cared for, is facilitated by the
-possibility of setting interesting and engaging goals regardless of programming
-experience.
+possibility of building realistic projects and setting engaging goals,
+regardless of programming experience.
 
 
 Platforms
@@ -101,6 +101,6 @@ Frequently Asked Questions
    difficult parts?*
 
    Scaffolding can, in fact, flatten the learning curve, but still leaves
-   idiosyncrasies and boilerplate that might get in the way of learning goals.
-   Scaffolding also defeats the purpose of using an established platform in the
-   first place, since it is not actually taught.
+   idiosyncrasies and boilerplate that might get in the way of learning
+   objectives. Scaffolding also defeats the purpose of using an established
+   platform in the first place, since it is not actually taught.
