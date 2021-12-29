@@ -85,12 +85,12 @@ Frequently Asked Questions
 
    This is, in fact, a possibility, but only if a limitation is directly related
    to a learning objective. For example, we wouldn't recommend using a NFP
-   server in an assignment of an Information Security course. But if there are
-   no direct relations to a learning objective, having the limitation is an
+   server in the final project of an Information Security course. But if there
+   are no direct relations to a learning objective, having the limitation is an
    acceptable tradeoff, as long as it is disclosed.
 
 4. *It seems that the goal is making programming classes as easy as possible.
-   Shouldn't a class have challenges?*
+   Shouldn't a class have challenges? Lack of difficulty can be demotivating.*
 
    It is more accurate to say that the goal is making programming classes easy
    as possible where it doesn't matter, while still allowing them to be as
