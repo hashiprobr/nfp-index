@@ -1,8 +1,8 @@
 NFP Index
 =========
 
-This is an up-to-date list of all platforms that are officially part of the
-**Not-For-Production Initiative**. Any platform on this list...
+This is an up-to-date list of all platforms that are part of the
+**Not-For-Production Initiative**. A platform on this list...
 
 * ...is not necessarily flexible and does not necessarily encourage, facilitate,
   or even allow feature customization;
