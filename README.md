@@ -54,7 +54,11 @@ regardless of programming experience.
 Platforms
 ---------
 
-*Coming soon!*
+* [nfp-java-dao](https://github.com/hashiprobr/nfp-java-dao): Java DAO framework
+  based on Cloud Firestore and Storage.
+
+* [nfp-java-rest](https://github.com/hashiprobr/nfp-java-rest): Java REST
+  framework based on Jetty and Gson.
 
 
 Frequently Asked Questions
