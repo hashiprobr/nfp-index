@@ -60,6 +60,9 @@ Platforms
 * [nfp-java-rest](https://github.com/hashiprobr/nfp-java-rest): Java REST
   framework based on Jetty and Gson.
 
+* [nfp-expo](https://github.com/hashiprobr/nfp-expo): Expo template based on
+React Native Paper and with additional components and hooks.
+
 
 Frequently Asked Questions
 --------------------------
