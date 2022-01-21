@@ -61,7 +61,8 @@ Platforms
   framework based on Jetty and Gson.
 
 * [nfp-expo](https://github.com/hashiprobr/nfp-expo): Expo template based on
-  React Navigation, React Native Paper, and additional components and hooks.
+  React Navigation, React Native Paper, and additional components, hooks, and
+  tools.
 
 
 Frequently Asked Questions
