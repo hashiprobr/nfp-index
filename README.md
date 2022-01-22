@@ -64,6 +64,10 @@ Platforms
   React Navigation, React Native Paper, and additional components, hooks, and
   tools.
 
+  - [nfp-expo-css](https://github.com/hashiprobr/nfp-expo/tree/css) A branch
+    with adaptations and additions to use CSS instead of React Native
+    StyleSheets.
+
 
 Frequently Asked Questions
 --------------------------
